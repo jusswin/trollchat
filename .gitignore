@@ -1,0 +1,22 @@
+# Build outputs
+android/build/
+*.apk
+*.dex
+*.class
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Runtime data (never commit keys or chat logs)
+inbox.log
+*.log
+operator/
+.env
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
